@@ -15,6 +15,10 @@ to use this,
     ./read_time https://en.wikipedia.org/wiki/Human
     
 for windows
+.
+.
+.
+
 
 
 
